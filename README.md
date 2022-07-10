@@ -10,10 +10,8 @@
 
 > ![Badge Maven](https://img.shields.io/static/v1?label=Versão+da+ferramenta+de+gerenciamento+de+dependências,+Maven:&message=+-+&color=brightgreen)
 
-
 > ![Badge Status](http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=GREEN&style=for-the-badge)
 
-> ![GitHub Org's stars](https://img.shields.io/github/stars/FernandoLopesCoder/estudando-codificacao?style=social)
 
 
 Para verificar mais informações sobre meu estudo de codificação poderá observar e avaliar as melhorias adquiridas
