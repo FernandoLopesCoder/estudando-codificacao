@@ -1,5 +1,8 @@
 <h1>Repositório de códigos produzidos no meu estudo de condificação JAVA</h1>
 
+![java-duke](https://user-images.githubusercontent.com/109006217/178129624-289af4bc-b567-4aaf-9cc7-e042888f3f90.png)
+
+
 > ![Badge Issues](https://img.shields.io/github/issues/FernandoLopesCoder/estudando-codificacao)
  
 > ![Badge Forks](https://img.shields.io/github/forks/FernandoLopesCoder/estudando-codificacao)
