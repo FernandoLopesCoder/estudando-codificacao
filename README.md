@@ -5,7 +5,7 @@
 > https://img.shields.io/github/stars/FernandoLopesCoder/estudando-codificacao
 > https://img.shields.io/github/license/FernandoLopesCoder/estudando-codificacao
 > https://img.shields.io/github/license/FernandoLopesCoder/estudando-codificacao
-> https://img.shields.io/static/v1?label=Versão-da-ferramenta-de-gerenciamento-de-dependências,-Maven:&message=-&color=brightgreen
+> ![Badge em Desenvolvimento](https://img.shields.io/static/v1?label=Versão-da-ferramenta-de-gerenciamento-de-dependências,-Maven:&message=-&color=brightgreen)
 
 
 > ![Badge em Desenvolvimento](http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=GREEN&style=for-the-badge)
