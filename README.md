@@ -9,6 +9,7 @@
 > ![Badge Licença](https://img.shields.io/github/license/FernandoLopesCoder/estudando-codificacao)
 
 > ![Badge Maven](https://img.shields.io/static/v1?label=Versão%da%ferramenta%de%gerenciamento%de%dependências,%Maven:&message= - &color=brightgreen)
+> ![Badge Maven](https://img.shields.io/badge/Maven---brightgreen)
 
 
 > ![Badge Status](http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=GREEN&style=for-the-badge)
