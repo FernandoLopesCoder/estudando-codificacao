@@ -4,7 +4,7 @@
  
 > ![Badge Forks](https://img.shields.io/github/forks/FernandoLopesCoder/estudando-codificacao)
  
-> ![Badge Stars](https://img.shields.io/github/stars/FernandoLopesCoder/estudando-codificacao)
+> ![Badge Stars](https://img.shields.io/github/stars/FernandoLopesCoder/estudando-codificacao?style=social)
 
 > ![Badge Licença](https://img.shields.io/github/license/FernandoLopesCoder/estudando-codificacao)
 
